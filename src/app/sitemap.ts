@@ -38,11 +38,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         lastModified: new Date().toISOString(),
     }));
 
-    return [
-        ...routes,
-        ...pagesRoutes,
-        ...postsRoutes,
-        ...authorsRoutes,
-        ...bondCleaningRoutes,
-    ];
+    return [...routes, ...pagesRoutes];
 }
