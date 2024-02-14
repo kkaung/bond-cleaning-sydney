@@ -9,8 +9,8 @@ import Content from './_components/content';
 export const runtime = 'edge';
 
 export const metadata: Metadata = {
-    title: `End Of Lease Cleaning Sydney - Bond Cleaning`,
-    description: `Professional End of Lease Cleaning Service in Sydney with 100% Bond Back Guarantee and the Lowest Price Guaranteed. Book online in less than 60 seconds.`,
+    title: `End Of Lease Cleaning Sydney - 100% Bond Back Cleaning`,
+    description: `Top rated vacate cleaning service in Sydney with 100% Bond Back Guarantee and Lowest Price Guaranteed. Book online in 60 seconds.`,
 };
 
 export default function Page() {

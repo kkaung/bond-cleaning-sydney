@@ -21,8 +21,9 @@ export const siteConfig = {
     name: 'SSS Cleaning',
     title: `Sydney's Premium House Cleaning Serivce`,
     description: '',
-    url: 'https://rzcleaning.com.au',
-    ogImage: 'https://rzcleaning.com.au/opengraph-image.png',
+    url: 'https://end-of-lease-bond-vacate-cleaning-sydney.com.au',
+    ogImage:
+        'https://end-of-lease-bond-vacate-cleaning-sydney.com.au/opengraph-image.png',
     mainNav: [
         {
             title: 'Where We Clean',
@@ -50,7 +51,7 @@ export const siteConfig = {
         },
     ] satisfies FooterItem[],
     business: {
-        email: 'contact@rzcleaning.com.au',
+        email: 'contact@end-of-lease-bond-vacate-cleaning-sydney.com.au',
         phone: '1302 245 417',
         address: '401/249 George St, 2017 NSW',
         openingHour: 'Mon – Sun: 9:00 AM – 5:00 PM',
